@@ -1,0 +1,11 @@
+.h{
+background-position: left;
+width: 50%;
+display: inline-block;
+
+}
+.a{
+    display: inline-block;
+    background-position: right;
+width: 50%;
+}
